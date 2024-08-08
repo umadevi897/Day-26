@@ -1,0 +1,1 @@
+DELETE FROM Mobile_records WHERE Mobile_Name='Apple';
